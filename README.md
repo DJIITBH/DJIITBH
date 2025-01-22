@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Dhananjay Abbot</h1>
 <h3 align="center">Mechatronics Engineer | Robotics Enthusiast | ROS2 Developer</h3>
 
 <p align="center">
@@ -60,9 +60,8 @@
 
 ## 📫 Let's Connect!
 
-- **GitHub**: [Your GitHub Profile Link]  
-- **LinkedIn**: [Your LinkedIn Profile Link]  
-- **Email**: [Your Email Address]  
+- **LinkedIn**: https://www.linkedin.com/in/dhananjay-abbot-3ba776198/
+- **Email**: dhananjaya@iitbhilai.ac.in 
 
 ---
 
