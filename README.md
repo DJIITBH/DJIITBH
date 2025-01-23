@@ -13,11 +13,12 @@
 - **Frameworks & Tools**: ROS 2, Gazebo, MATLAB/Simulink  
 - **Robotics Expertise**:
   - Kinematics & Dynamics of Manipulators  
-  - Control Systems: PID, Nonlinear Control, Feedback Linearization  
+  - Control Systems: PID, Nonlinear Control, Feedback Linearization, State Feedback  
   - State Estimation: Extended Kalman Filters  
-  - Navigation & Path Planning: `Nav2` Parameter Tuning  
+  - Navigation & Path Planning: SLAM, Nav2 on mobile robots
 - **Software Development**:
-  - Writing custom hardware interfaces for robots  
+  - Writing custom hardware interfaces for robots
+  - Implementing ROS2 control on hardware.
   - Building systems from scratch instead of relying on plugins  
 
 ---
@@ -47,14 +48,18 @@
 ### 4. **Quadrotor Control under Motor Failure**  
 - Developed control algorithms for quadrotor stability under single-motor failure.  
 - **Highlights**:
-  - Implemented PID and nonlinear control algorithms using feedback linearization.  
+  - Implemented incremental PID based approach to safely land the drone.
+  - Tested Feedback Linearization algorithm to find the optimal input for the non linear drone dynamics.
+  - Simulated on IRIS drone in ROS2 using offboard control.  
 
 ---
 
 ## 📚 Coursework
 
 - **Machine Learning**: Understanding deep learning architectures for intelligent systems.  
-- **Control Systems**: Advanced concepts in stability, optimization, and robust control.  
+- **Control Systems**: Advanced concepts in stability, optimization, Controllability, Observability, State Feedback.
+- **Digital Image Processing** - Filters, Image feature extraction, CNN, Segmentation, Enhancement.
+- **Robotics Fundamentals** - DH, Transformations, Inverse Kinematics, Dynamics, Trajectory Generation.
 
 ---
 
